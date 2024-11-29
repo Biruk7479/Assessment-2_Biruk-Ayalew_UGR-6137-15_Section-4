@@ -326,7 +326,7 @@ ol li textarea {
   color: white;
 }
 /*I used media quiery for this because when I checked the website on different PC's the layout was changing  */
-@media (max-width: 1500px) {
+@media (max-width: 1510px) {
   .middle {
     max-width: 70%;
   }
