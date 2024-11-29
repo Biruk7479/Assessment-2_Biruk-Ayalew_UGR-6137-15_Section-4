@@ -130,7 +130,7 @@ a.red {
 }
 .gadget {
   margin: 0;
-  padding: 0 0 16px 15px;
+  padding: 0 0 16px 0;
 }
 
 ul.sidebar_menu,
